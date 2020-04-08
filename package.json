@@ -1,0 +1,13 @@
+{
+  "name": "ling-event-emitter",
+  "version": "1.0.0",
+  "description": "A js tiny event emitter class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lingtalfi",
+  "homepage": "https://github.com/lingtalfi/ling-event-emitter",
+  "license": "ISC"
+}
